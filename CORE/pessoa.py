@@ -1,6 +1,6 @@
 class Pessoa:
     def __init__(self):
-        self.nome="Bruno"
+        self.nome="Brunos"
         self.idade=24
 
     @property
@@ -11,3 +11,4 @@ class Pessoa:
     def nome(self,nome):
         self.nome = nome
 
+    
